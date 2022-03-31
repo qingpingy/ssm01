@@ -10,7 +10,7 @@
 
     <properties>
         <mysql.version>8.0.20</mysql.version>
-        <spring.version>5.2.6.RELEASE</spring.version>
+        <spring.version>5.3.18</spring.version>
     </properties>
 
     <dependencies>
